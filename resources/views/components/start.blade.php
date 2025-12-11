@@ -8,7 +8,7 @@
                 START
             </h2>
 
-            <!-- Tekst -->
+            <!-- Tekstt -->
             <p class="reveal-on-scroll text-xl text-gray-200 mb-10 max-w-2xl mx-auto">
                 Een team nodig? Laten we bespreken hoe we het samen kunnen realiseren.
             </p>
