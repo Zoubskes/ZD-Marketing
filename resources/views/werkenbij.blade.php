@@ -43,15 +43,7 @@
     </div>
 </div>
 
-    <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0]">
-        <svg class="relative block w-[calc(140%+1.3px)] h-40 md:h-56" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none">
-            <path
-                d="M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z"
-                fill="#111827"
-                opacity="1">
-            </path>
-        </svg>
-    </div>
+
 </section>
 
 <!-- Vacatures -->

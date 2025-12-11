@@ -54,15 +54,7 @@
     </div>
 </div>
 
-    <div class="absolute bottom-0 left-0 w-full overflow-hidden leading-[0]">
-        <svg class="relative block w-[calc(140%+1.3px)] h-40 md:h-56" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 200" preserveAspectRatio="none">
-            <path
-                d="M0,100 C300,200 900,0 1200,100 L1200,200 L0,200 Z"
-                fill="#111827"
-                opacity="1">
-            </path>
-        </svg>
-    </div>
+
 </section>
 
 <!-- Team -->
@@ -78,24 +70,24 @@
     <div class="max-w-6xl mx-auto grid gap-10 sm:grid-cols-2 md:grid-cols-3 px-6">
         <!-- Teamlid 1 -->
         <div class="animate-fadeUp bg-white/5 p-8 rounded-2xl border border-indigo-800/40 hover:border-indigo-400/60 transition backdrop-blur-md">
-            <img src="https://randomuser.me/api/portraits/women/65.jpg" alt="Team member" class="mx-auto w-24 h-24 rounded-full mb-4 border-2 border-indigo-400">
-            <h3 class="text-xl font-semibold">Laura Jansen</h3>
-            <p class="text-gray-400 text-sm">Creative Director</p>
+            <img src="/images/zoubair.jpeg" alt="Team member" class="mx-auto w-28 h-28 rounded-full mb-4 border-2 border-indigo-400">
+            <h3 class="text-xl font-semibold">Zoubair Khan</h3>
+            <p class="text-gray-400 text-sm">Eigenaar, Fullstack Developer</p>
         </div>
-
-        <!-- Teamlid 2 -->
+        <a href="werkenbij/#solliciteer">
         <div class="animate-fadeUp bg-white/5 p-8 rounded-2xl border border-indigo-800/40 hover:border-indigo-400/60 transition backdrop-blur-md">
-            <img src="https://randomuser.me/api/portraits/men/31.jpg" alt="Team member" class="mx-auto w-24 h-24 rounded-full mb-4 border-2 border-indigo-400">
-            <h3 class="text-xl font-semibold">Sven Bakker</h3>
-            <p class="text-gray-400 text-sm">Lead Developer</p>
+            <img src="/images/noprofile.jpg" alt="Team member" class="mx-auto w-28 h-28 rounded-full mb-4 border-2 border-indigo-400">
+            <h3>Solliciteer nu!</h3>
+            <p class="text-gray-400 text-sm">Frontend Developer</p>
         </div>
-
-        <!-- Teamlid 3 -->
+        </a>
+        <a href="werkenbij/#solliciteer">
         <div class="animate-fadeUp bg-white/5 p-8 rounded-2xl border border-indigo-800/40 hover:border-indigo-400/60 transition backdrop-blur-md">
-            <img src="https://randomuser.me/api/portraits/women/45.jpg" alt="Team member" class="mx-auto w-24 h-24 rounded-full mb-4 border-2 border-indigo-400">
-            <h3 class="text-xl font-semibold">Noa de Vries</h3>
-            <p class="text-gray-400 text-sm">Digital Marketeer</p>
+            <img src="/images/noprofile.jpg" alt="Team member" class="mx-auto w-28 h-28 rounded-full mb-4 border-2 border-indigo-400">
+            <h3>Solliciteer nu!</h3>
+            <p class="text-gray-400 text-sm">Marketing specialist</p>
         </div>
+        </a>
     </div>
 </section>
 

@@ -36,11 +36,11 @@
 
     <!-- Mobile menu -->
     <div id="mobileMenu" class="hidden md:hidden bg-[#0f172a]/90 backdrop-blur-lg text-white text-center space-y-4 py-6">
-        <a href="#services" class="block hover:text-indigo-300 transition">Diensten</a>
-        <a href="#cases" class="block hover:text-indigo-300 transition">Cases</a>
-        <a href="#over-ons" class="block hover:text-indigo-300 transition">Over ons</a>
-        <a href="#contact" class="block hover:text-indigo-300 transition">Contact</a>
-        <a href="#contact" class="inline-block bg-white text-black px-4 py-2 rounded-full font-semibold hover:bg-gray-200 transition">
+        <a href="services" class="block hover:text-indigo-300 transition">Diensten</a>
+        <a href="over-ons" class="block hover:text-indigo-300 transition">Over ons</a>
+        <a href="werkenbij" class="block hover:text-indigo-300 transition">Werken bij</a>
+        <a href="contact" class="block hover:text-indigo-300 transition">Contact</a>
+        <a href="contact" class="inline-block bg-white text-black px-4 py-2 rounded-full font-semibold hover:bg-gray-200 transition">
             Offerte aanvragen
         </a>
     </div>

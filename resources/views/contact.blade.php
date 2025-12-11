@@ -23,14 +23,14 @@
             </p>
 
             <ul class="space-y-4 text-gray-400 text-sm">
-                <li>📍 Amsterdam, Nederland</li>
-                <li>📞 +31 6 1234 5678</li>
+                <li>📍 Berlicum, Nederland</li>
+                <li>📞 +31 6 37552815</li>
                 <li>✉️ info@zdmarketing.nl</li>
             </ul>
         </div>
 
         <!-- Contact Form -->
-        <form action="https://formspree.io/f/your-form-id" method="POST" class="space-y-6 animate-fadeUp text-white">
+        <form action="https://formspree.io/f/mldqonkw" method="POST" class="space-y-6 animate-fadeUp text-white">
             <div>
                 <input type="text" id="name" name="name" placeholder="Naam" required
                        class="w-full px-4 py-3 rounded-xl bg-white/5 border border-indigo-800/50 text-white placeholder-gray-400 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-500 outline-none transition">
@@ -42,12 +42,12 @@
             </div>
 
             <div>
-                <input type="email" id="email" name="email" placeholder="Telefoonnummer" required
+                <input type="tel" id="phone" name="phone" placeholder="Telefoonnummer" required
                        class="w-full px-4 py-3 rounded-xl bg-white/5 border border-indigo-800/50 text-white placeholder-gray-400 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-500 outline-none transition">
             </div>
 
             <div>
-                <input type="email" id="email" name="email" placeholder="Bedrijfsnaam" required
+                <input type="text" id="bedrijfsnaam" name="bedrijfsnaam" placeholder="Bedrijfsnaam" required
                        class="w-full px-4 py-3 rounded-xl bg-white/5 border border-indigo-800/50 text-white placeholder-gray-400 focus:border-indigo-400 focus:ring-2 focus:ring-indigo-500 outline-none transition">
             </div>
 
@@ -72,9 +72,9 @@
 
     <section class="py-24  text-center bg-[#111827]">
         <h3 class="text-3xl font-semibold mb-4 animate-fadeUp text-white">Bezoek ons kantoor</h3>
-        <p class="text-gray-300 mb-10 animate-fadeUp">We verwelkomen je graag voor een kop koffie in Amsterdam.</p>
+        <p class="text-gray-300 mb-10 animate-fadeUp">We verwelkomen je graag voor een kop koffie in Berlicum.</p>
         <iframe
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.746729613859!2d4.895168415799046!3d52.37021597978657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609e672b8b0b9%3A0x4a0b3d4d5b1ff0!2sAmsterdam!5e0!3m2!1sen!2snl!4v1616161616161!5m2!1sen!2snl"
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2436.746729613859!2d4.895168415799046!3d52.37021597978657!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47c609e672b8b0b9%3A0x4a0b3d4d5b1ff0!2sBerlicum!5e0!3m2!1sen!2snl!4v1616161616161!5m2!1sen!2snl"
             class="mx-auto w-[70%] h-[350px] rounded-2xl border-0 shadow-lg"
             allowfullscreen=""
             loading="lazy">

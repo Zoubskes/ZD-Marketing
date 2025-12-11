@@ -14,10 +14,9 @@
         <div>
             <h4 class="text-white font-semibold mb-4">Navigatie</h4>
             <ul class="space-y-2 text-sm">
-                <li><a href="#services" class="hover:text-indigo-400 transition">Diensten</a></li>
-                <li><a href="#cases" class="hover:text-indigo-400 transition">Cases</a></li>
-                <li><a href="#over-ons" class="hover:text-indigo-400 transition">Over ons</a></li>
-                <li><a href="#contact" class="hover:text-indigo-400 transition">Contact</a></li>
+                <li><a href="/#services" class="hover:text-indigo-400 transition">Diensten</a></li>
+                <li><a href="over-ons" class="hover:text-indigo-400 transition">Over ons</a></li>
+                <li><a href="contact" class="hover:text-indigo-400 transition">Contact</a></li>
             </ul>
         </div>
 
@@ -25,8 +24,8 @@
         <div>
             <h4 class="text-white font-semibold mb-4">Contact</h4>
             <ul class="space-y-2 text-sm">
-                <li>📍 Amsterdam, Nederland</li>
-                <li>📞 +31 6 1234 5678</li>
+                <li>📍 Berlicum, Nederland</li>
+                <li>📞 +31 6 37552815</li>
                 <li>✉️ info@zdmarketing.nl</li>
             </ul>
         </div>

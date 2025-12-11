@@ -17,8 +17,8 @@
                 De nieuwe site ziet er geweldig uit en levert echt meer aanvragen op.”
             </p>
             <div class="text-sm text-gray-400">
-                <span class="font-semibold text-white">Laura Jansen</span><br>
-                Marketingmanager bij Van Dijk Consultancy
+                <span class="font-semibold text-white">Jordy Pennings</span><br>
+                Mede-eigenaar JZ Autoverhuur
             </div>
         </div>
 
@@ -29,8 +29,8 @@
                 en dat vonden we in ZD Marketing. Onze webshop groeit elke maand.”
             </p>
             <div class="text-sm text-gray-400">
-                <span class="font-semibold text-white">Karim El Amrani</span><br>
-                Oprichter van FitPro Supplements
+                <span class="font-semibold text-white">Andy Huang</span><br>
+                E-commerce
             </div>
         </div>
 
@@ -41,8 +41,8 @@
                 en levert websites waar we écht trots op zijn.”
             </p>
             <div class="text-sm text-gray-400">
-                <span class="font-semibold text-white">Sophie de Bruin</span><br>
-                Communicatieadviseur bij Nova Projects
+                <span class="font-semibold text-white">Bob Janssen</span><br>
+                Junior vastgoed taxateur
             </div>
         </div>
     </div>
